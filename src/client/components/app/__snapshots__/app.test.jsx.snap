@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App (Snapshot) App renders Hello World! 1`] = `
+<div
+  className="flex items-center justify-center"
+  id="app"
+>
+  <h1
+    className="regular"
+  >
+    Hello World!
+  </h1>
+</div>
+`;
