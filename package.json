@@ -23,6 +23,7 @@
     "compression": "^1.6.2",
     "express": "^4.15.2",
     "normalize.css": "^6.0.0",
+    "prop-types": "^15.5.4",
     "react": "^15.5.3",
     "react-dom": "^15.5.3",
     "react-hot-loader": "^3.0.0-beta.6",
